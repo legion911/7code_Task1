@@ -3,6 +3,8 @@
 
 A brief description of what this project does and who it's for
 
+![image](https://github.com/legion911/7code_Task1/assets/118493225/2b17b4e2-06bf-45d4-af67-6ca13a49c3f0)
+
 
 ## About
 
@@ -46,9 +48,16 @@ Embarked - Point of embarkment (C = Cherbourg; Q = Queenstown; S = Southampton)
 This stage involves finding the empty cells or any duplicate entries in the dataset. If found, the missing values can be replaced based on the column. We can replace missing values for the 'Age' column by filling those cells with the mean value of the age. Label encoding is done for easier interpretation of categorical data. Normalization of data is done in the later stages using MinMaxScaler.
 ## Data Visualization
 
+![image](https://github.com/legion911/7code_Task1/assets/118493225/cee8686a-c1b5-4419-9391-f3b51e176b2a)
+
+![image](https://github.com/legion911/7code_Task1/assets/118493225/401ff445-f2b8-4e65-a5d7-4f2c86c14ecb)
+
 
 Distribution plots of Age vs Survived and Age vs PClass are produced which is followed by a Correlation heatmap and pairplot of the data.
 ## Sample Testing
+
+![image](https://github.com/legion911/7code_Task1/assets/118493225/3a35da9d-59cd-42a8-b47c-b1c70d36a24a)
+
 
 Sample data is taken for the purpose of training and testing. The columns which are deemed to be of no use are dropped from the dataset. Logistic regression algorithms is applied on the model and the classification report is obtained along with a confusion matrix.
 ## Model Selection
