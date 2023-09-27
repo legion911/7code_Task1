@@ -1,7 +1,6 @@
 
 # Titanic Classification
 
-A brief description of what this project does and who it's for
 
 ![image](https://github.com/legion911/7code_Task1/assets/118493225/2b17b4e2-06bf-45d4-af67-6ca13a49c3f0)
 
